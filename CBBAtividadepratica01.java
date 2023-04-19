@@ -12,7 +12,7 @@ class  TesteIgualdade {
     }
 }
 
- class  pública CBBAtividadePrática01 {
+ class  CBBAtividadePrática01 {
     public  static  void  main ( String [] args ) {
         TesteIgualdade  teste = new  TesteIgualdade ();
         teste . teste ();
